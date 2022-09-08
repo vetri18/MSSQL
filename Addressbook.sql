@@ -98,3 +98,4 @@ INSERT INTO AddressBook VALUES('Anusha','nanjappa', 'Srivari', 'viajayawada','an
 INSERT INTO AddressBook VALUES('viajyakala','murugan', 'lakshmi illam', 'echanari','tamilandu',674423,9516284375,'vijayakalmurugan485@gmail.com', 'Friend');
 INSERT INTO AddressBook VALUES('khishan','Kumar', '', 'hosur','krishnagiri',767239,7531598464,'khishankumar@gmail.com', 'Professional');
 SELECT * FROM AddressBook;
+
